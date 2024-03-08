@@ -51,9 +51,11 @@ print(f"Predicted value: {pre}")
 
 ## Output:
    i.) Dataset:
+   
    ![image](https://github.com/shoaib3136/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/117919362/40c5c830-3e53-44ff-aecc-66f36c9a7087)
 
    ii.) Predicted value:
+   
    ![image](https://github.com/shoaib3136/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/117919362/9e64546a-9fb0-495f-9678-cdd6cf6f9cc5)
 
 
